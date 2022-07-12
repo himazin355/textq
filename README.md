@@ -1,2 +1,7 @@
-# textq
-自作のメモ帳アプリ
+# [TextQ](http://himazin355.web.fc2.com/textq/)
+Canvas要素を使ったメモ帳アプリです。
+## 主な機能
+* HTML5のLocalStorageを使ったブラウザへの保存
+* 音声入力
+## クレジット
+* [jQuery](https://jquery.com)
