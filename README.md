@@ -3,5 +3,5 @@ Canvas要素を使ったメモ帳アプリです。
 ## 主な機能
 * HTML5のLocalStorageを使ったブラウザへの保存
 * 音声入力
-## クレジット
+## 使用ライブラリ
 * [jQuery](https://jquery.com)
